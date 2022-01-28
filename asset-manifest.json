@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/nwitter/nwitter.git/static/css/main.b4eb3f7c.chunk.css",
-    "main.js": "/nwitter/nwitter.git/static/js/main.2608f4d6.chunk.js",
-    "main.js.map": "/nwitter/nwitter.git/static/js/main.2608f4d6.chunk.js.map",
-    "runtime-main.js": "/nwitter/nwitter.git/static/js/runtime-main.9048adb4.js",
-    "runtime-main.js.map": "/nwitter/nwitter.git/static/js/runtime-main.9048adb4.js.map",
-    "static/js/2.370d4932.chunk.js": "/nwitter/nwitter.git/static/js/2.370d4932.chunk.js",
-    "static/js/2.370d4932.chunk.js.map": "/nwitter/nwitter.git/static/js/2.370d4932.chunk.js.map",
-    "index.html": "/nwitter/nwitter.git/index.html",
-    "precache-manifest.78eb37a2824b42b9f3cafcb1c64935fe.js": "/nwitter/nwitter.git/precache-manifest.78eb37a2824b42b9f3cafcb1c64935fe.js",
-    "service-worker.js": "/nwitter/nwitter.git/service-worker.js",
-    "static/css/main.b4eb3f7c.chunk.css.map": "/nwitter/nwitter.git/static/css/main.b4eb3f7c.chunk.css.map",
-    "static/js/2.370d4932.chunk.js.LICENSE.txt": "/nwitter/nwitter.git/static/js/2.370d4932.chunk.js.LICENSE.txt"
+    "main.css": "/nwitter/static/css/main.b4eb3f7c.chunk.css",
+    "main.js": "/nwitter/static/js/main.2608f4d6.chunk.js",
+    "main.js.map": "/nwitter/static/js/main.2608f4d6.chunk.js.map",
+    "runtime-main.js": "/nwitter/static/js/runtime-main.222ae764.js",
+    "runtime-main.js.map": "/nwitter/static/js/runtime-main.222ae764.js.map",
+    "static/js/2.16e85d2b.chunk.js": "/nwitter/static/js/2.16e85d2b.chunk.js",
+    "static/js/2.16e85d2b.chunk.js.map": "/nwitter/static/js/2.16e85d2b.chunk.js.map",
+    "index.html": "/nwitter/index.html",
+    "precache-manifest.3b3b6ee617c82cd87803430b60974af2.js": "/nwitter/precache-manifest.3b3b6ee617c82cd87803430b60974af2.js",
+    "service-worker.js": "/nwitter/service-worker.js",
+    "static/css/main.b4eb3f7c.chunk.css.map": "/nwitter/static/css/main.b4eb3f7c.chunk.css.map",
+    "static/js/2.16e85d2b.chunk.js.LICENSE.txt": "/nwitter/static/js/2.16e85d2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9048adb4.js",
-    "static/js/2.370d4932.chunk.js",
+    "static/js/runtime-main.222ae764.js",
+    "static/js/2.16e85d2b.chunk.js",
     "static/css/main.b4eb3f7c.chunk.css",
     "static/js/main.2608f4d6.chunk.js"
   ]
